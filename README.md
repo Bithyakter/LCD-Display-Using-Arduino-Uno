@@ -1,2 +1,2 @@
-# LCD-Display-Using-Arduino-Uno
-LCD Display using Arduino Uno
+# LCD Display Using Arduino Uno
+LCD(16*2) Display Using Arduino Uno
